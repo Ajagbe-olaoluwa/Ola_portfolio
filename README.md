@@ -10,7 +10,7 @@ This project analyzes a dataset detailing vehicle populations across various ind
 - **Total BEVs & % of Total BEVs:** Understanding the dominance of fully electric models
 
 
-#[Project 2: Grade book Analysis](https://github.com/Ajagbe-olaoluwa/Student-Gradebook)
+# [Project 2: Grade book Analysis](https://github.com/Ajagbe-olaoluwa/Student-Gradebook)
 - **Project Summary:** This project analyzes a university-grade book dataset to gain insights into student performance, course enrollments, instructor workloads, and departmental distributions.  
 
 - **Key Performance Indicators (KPIs):**  
