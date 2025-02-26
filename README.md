@@ -8,8 +8,8 @@ This project analyzes a dataset detailing vehicle populations across various ind
 - **Total Vehicles:** Assessing the overall market size of electric vehicles (EVs), including **Battery Electric Vehicles (BEVs)** and **Plug-in Hybrid Electric Vehicles (PHEVs)**.  
 - **Average Electric Range:** Measuring EV efficiency and technological advancements.  
 - **Total BEVs & % of Total BEVs:** Understanding the dominance of fully electric models
-## overview of the dashboard[](![Vehicle Daashboard](https://github.com/user-attachments/assets/c6ef53b7-296c-4763-8af8-c148dd9e40b2)
-)
+## overview of the dashboard ![Vehicle Daashboard](https://github.com/user-attachments/assets/c6ef53b7-296c-4763-8af8-c148dd9e40b2)
+
 
 # [Project 2: Grade book Analysis](https://github.com/Ajagbe-olaoluwa/Student-Gradebook)
 - **Project Summary:** This project analyzes a university-grade book dataset to gain insights into student performance, course enrollments, instructor workloads, and departmental distributions.  
