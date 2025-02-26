@@ -14,7 +14,7 @@ This project analyzes a dataset detailing vehicle populations across various ind
 - **Project Summary:** This project analyzes a university-grade book dataset to gain insights into student performance, course enrollments, instructor workloads, and departmental distributions.  
 
 - **Key Performance Indicators (KPIs):**  
-  - **Total Enrollments:** Measure the number of students enrolled in each course and major.  
+  - **Total Enrollments:** Measure the number of students enrolled in each course and major.
   - **Average Grade per Course:** Assess student performance across different courses.  
   - **Instructor Workload:** Track the number of courses assigned to each instructor.  
   - **Departmental Course Distribution:** Identify the departments offering the most and least courses.  
